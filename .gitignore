@@ -3,3 +3,5 @@ data
 dataset
 test
 weights
+output/
+*.png

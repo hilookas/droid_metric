@@ -1,0 +1,1 @@
+python reconstruct.py --input ../tvla-data-hdfs/vda/ios/20260106/175421-DC2B9234D6AD45238B85E98C730FD8F9-iPhone15,3-19246/raw.mp4 --output ./output --intr output/intrinsic.txt

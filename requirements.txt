@@ -1,10 +1,10 @@
-torch == 2.0.1
-torchvision == 0.15.2
+torch == 2.5.1
+torchvision
 numpy == 1.26.1
-opencv-python   
+opencv-python
 gdown
 py3_wget
-tqdm 
+tqdm
 psutil
 # droid slam
 torch-scatter
@@ -15,7 +15,7 @@ matplotlib
 pyyaml
 evo
 # metric3d
-xformers == 0.0.21
+xformers
 mmengine
 mmcv
 timm
