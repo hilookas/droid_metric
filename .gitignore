@@ -5,3 +5,4 @@ test
 weights
 output/
 *.png
+sample.sh
